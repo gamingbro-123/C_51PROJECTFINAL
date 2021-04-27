@@ -1,0 +1,40 @@
+  
+  
+  
+  .header{
+    background-color: orangered;
+    display: flex;
+    justify-content: space-between;
+    color: black;
+}
+.menu{
+    display:flex;
+    margin: 50px;
+    justify-content:space-around;
+    padding: 1px;;
+    color: rgb(0, 255, 242);
+}
+.menu-items{
+    margin: 10px;
+    
+}
+
+.grid img{
+    border:2px solid black;
+    border-radius: 10px;
+    background-color : cyan;
+
+
+}
+
+.Sports{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  padding: 5px;
+}
+
+.sports-image{
+
+  padding: 10px;
+  margin: 50px;
+    
+}
